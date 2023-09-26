@@ -8,3 +8,5 @@
 - Used isotope, typed, owlcarousel and more stuffs.
 - Responsive & mobile-friendly.  
 - Take a look: https://Shari-Geek.github.io/SimplePortfolio/
+
+- ## https://shari-geek.github.io/SimplePortfolio/ ##
