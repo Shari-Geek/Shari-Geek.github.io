@@ -9,3 +9,5 @@
 - Responsive & mobile-friendly.  
 
 - ## https://shari-geek.github.io/SimplePortfolio/ ##
+
+Ill need all the help I can get! 
